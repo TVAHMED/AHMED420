@@ -1175,7 +1175,7 @@ def menu():
 	elif opt =='4':
 		pubg()
 	elif opt =='5':
-		2009()
+		ff()
 	elif opt =='0':
 		SIALZADA()
 	else:
